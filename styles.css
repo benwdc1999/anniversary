@@ -1,0 +1,31 @@
+body {
+  background-color: cyan;
+}
+
+h1 {
+  font-size: 5rem;
+  text-align: center;
+  font-family: "Skranji", cursive;
+}
+
+h2 {
+  font-size: 5rem;
+  text-align: center;
+  font-family: "Skranji", cursive;
+}
+
+img {
+  height: 200px;
+}
+
+.central {
+  text-align: center;
+}
+
+.left {
+  margin-right: 630px;
+}
+
+.right {
+  margin-left: 610px;
+}
